@@ -3,8 +3,9 @@
 - 👋 Hi, I’m @sssjmmm 
 - 🔭 I’m currently major in Software Engineering in Tongji University.
 - 🌱 TJ SSE weak chicken.
+- 😎 My current research direction is medical image segmentation
 - 💬 Ask me about Java, Vue3, C/C++, Python, and I really enjoy discussing this knowledge with you.
-- 📫 How to reach me: Email:2151299@tongji.edu.cn QQ:1191044710 Wechat:JmS_191013
+- 📫 How to reach me: Email:2151299@tongji.edu.cn QQ:1191044710 Wechat:sjm1191044710
 
 
 
